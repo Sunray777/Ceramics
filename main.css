@@ -102,7 +102,7 @@ background-size: cover;
 {
     margin: auto;
     margin-top: 15%;
-    max-width: 700px;
+    max-width: 1200px;
     color: white;
     font-size: 60px;
     font-size: calc(10px + 50 * (100vw / 1490));
@@ -125,7 +125,7 @@ text-transform: uppercase;
     font-size: calc(5px + 35 * (100vw / 1490));
 font-weight: 300;
 letter-spacing: 2px;
-padding: 5px 100px;
+padding: 15px 100px;
 
 }
 
@@ -134,4 +134,24 @@ padding: 5px 100px;
     {
         display: none;
     }
+}
+
+.gifts_shop
+{
+    height: 800px;
+    width: 100%;
+    
+}
+
+.col-lg h2
+{
+    text-align: center;
+    padding: 50px;
+}
+
+.card
+{
+    margin: auto;
+    text-align: center;
+    
 }
